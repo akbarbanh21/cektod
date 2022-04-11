@@ -1,0 +1,461 @@
+{
+  "sticker": {
+    "60,15,152,174,252,164,76,207,100,201,76,62,112,8,0,247,77,63,15,224,225,223,130,112,188,243,66,118,116,139,147,122": {
+      "text": "group close",
+      "mentionedJid": [],
+      "creator": "6283127014833@s.whatsapp.net",
+      "at": 1647072760914,
+      "locked": false
+    }
+  },
+  "database": {},
+  "game": {
+    "tebaklagu": [],
+    "family100": [],
+    "math": [],
+    "tebakgambar": [],
+    "tebakkata": [],
+    "lontong": [],
+    "lontong_desk": [],
+    "kalimat": [],
+    "lirik": [],
+    "tebakan": []
+  },
+  "settings": {
+    "6281365814200@s.whatsapp.net": {
+      "status": 1647503177358,
+      "autobio": true,
+      "autoread": true,
+      "autoketik": false,
+      "autorecord": true,
+      "autoonline": false,
+      "autooffline": false
+    },
+    "6285741857464@s.whatsapp.net": {
+      "status": 0,
+      "autobio": false,
+      "autoread": true,
+      "autoketik": false,
+      "autorecord": false,
+      "autoonline": false,
+      "autooffline": false
+    },
+    "62895324234305@s.whatsapp.net": {
+      "status": 0,
+      "autobio": false,
+      "autoread": false,
+      "autoketik": false,
+      "autorecord": false,
+      "autoonline": false,
+      "autooffline": false
+    }
+  },
+  "others": {
+    "vote": []
+  },
+  "users": {
+    "6283127014833@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": "Infinity"
+    },
+    "6281333603591@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": "Infinity"
+    },
+    "6285741857464@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": "Infinity"
+    },
+    "6281361057300@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": "Infinity"
+    },
+    "6281220670449@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": "Infinity"
+    },
+    "6282322961172@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": "Infinity"
+    },
+    "67579870314@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "6289530298948@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": "Infinity"
+    },
+    "6285693352917@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": "Infinity"
+    },
+    "18045292269@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "6288289729206@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "6281254820093@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": 100
+    },
+    "62895324234305@s.whatsapp.net": {
+      "afkTime": -1,
+      "afkReason": "",
+      "limit": "Infinity"
+    }
+  },
+  "chats": {
+    "120363024073006505@g.us": {
+      "mute": true,
+      "wame": false
+    },
+    "6283127014833@s.whatsapp.net": {
+      "mute": false,
+      "wame": false
+    },
+    "120363039525080361@g.us": {
+      "mute": true,
+      "wame": false
+    },
+    "6285693352917@s.whatsapp.net": {
+      "mute": false,
+      "wame": false
+    },
+    "120363022735092029@g.us": {
+      "mute": false,
+      "wame": false
+    },
+    "62895326097674-1627009257@g.us": {
+      "mute": false
+    },
+    "212774421209@s.whatsapp.net": {
+      "mute": false
+    },
+    "62882017009764@s.whatsapp.net": {
+      "mute": false
+    },
+    "6281317790596@s.whatsapp.net": {
+      "mute": false
+    },
+    "6281365814200@s.whatsapp.net": {
+      "mute": false,
+      "wame": false
+    },
+    "6287704764819@s.whatsapp.net": {
+      "mute": false,
+      "wame": false
+    },
+    "6285896676823@s.whatsapp.net": {
+      "mute": false,
+      "wame": false
+    },
+    "6288292024190@s.whatsapp.net": {
+      "mute": false,
+      "wame": false
+    },
+    "6285377193100@s.whatsapp.net": {
+      "mute": false,
+      "wame": false
+    },
+    "6283113989278@s.whatsapp.net": {
+      "mute": false,
+      "wame": false
+    },
+    "6288291659138@s.whatsapp.net": {
+      "mute": false,
+      "wame": false
+    },
+    "6282112080081@s.whatsapp.net": {
+      "mute": false,
+      "wame": false
+    },
+    "6289602518223@s.whatsapp.net": {
+      "mute": false,
+      "wame": false
+    },
+    "62882008529924@s.whatsapp.net": {
+      "mute": false,
+      "wame": false
+    },
+    "6285849261085@s.whatsapp.net": {
+      "mute": false,
+      "wame": false
+    },
+    "6285162634171@s.whatsapp.net": {
+      "mute": false,
+      "wame": false
+    },
+    "6283802905703@s.whatsapp.net": {
+      "mute": false,
+      "wame": false
+    },
+    "6285892728039@s.whatsapp.net": {
+      "mute": false,
+      "wame": false
+    },
+    "6281385085827@s.whatsapp.net": {
+      "mute": false,
+      "wame": false
+    },
+    "6283194989750@s.whatsapp.net": {
+      "mute": false,
+      "wame": false
+    },
+    "62895343303817@s.whatsapp.net": {
+      "mute": false,
+      "wame": false
+    },
+    "6287863651608@s.whatsapp.net": {
+      "mute": false,
+      "wame": false
+    },
+    "62857355780792@s.whatsapp.net": {
+      "mute": false,
+      "wame": false
+    },
+    "6285881526267@s.whatsapp.net": {
+      "mute": false,
+      "wame": false
+    },
+    "6288973004570@s.whatsapp.net": {
+      "mute": false,
+      "wame": false
+    },
+    "6281276698054@s.whatsapp.net": {
+      "mute": false,
+      "wame": false
+    },
+    "6281276698054-1625136613@g.us": {
+      "mute": false,
+      "wame": false
+    },
+    "6285891528650@s.whatsapp.net": {
+      "mute": false,
+      "wame": false
+    },
+    "6287773104099@s.whatsapp.net": {
+      "mute": false,
+      "wame": false
+    },
+    "6281384709123@s.whatsapp.net": {
+      "mute": false,
+      "wame": false
+    },
+    "6285758050756@s.whatsapp.net": {
+      "mute": false,
+      "wame": false
+    },
+    "6289626071284@s.whatsapp.net": {
+      "mute": false,
+      "wame": false
+    },
+    "6281218391902@s.whatsapp.net": {
+      "mute": false,
+      "wame": false
+    },
+    "6285726970224@s.whatsapp.net": {
+      "mute": false,
+      "wame": false
+    },
+    "6285781722351@s.whatsapp.net": {
+      "mute": false,
+      "wame": false
+    },
+    "6285712375128@s.whatsapp.net": {
+      "mute": false,
+      "wame": false
+    },
+    "6287705048235@s.whatsapp.net": {
+      "mute": false,
+      "wame": false
+    },
+    "6281220670449@s.whatsapp.net": {
+      "mute": false,
+      "wame": false
+    },
+    "17058062269@s.whatsapp.net": {
+      "mute": false,
+      "wame": false
+    },
+    "6285891922193@s.whatsapp.net": {
+      "mute": false,
+      "wame": false
+    },
+    "6281275280904@s.whatsapp.net": {
+      "mute": false,
+      "wame": false
+    },
+    "62882003037766@s.whatsapp.net": {
+      "mute": false,
+      "wame": false
+    },
+    "6288225027186@s.whatsapp.net": {
+      "mute": false,
+      "wame": false
+    },
+    "6285694131425@s.whatsapp.net": {
+      "mute": false,
+      "wame": false
+    },
+    "6281252848955@s.whatsapp.net": {
+      "mute": false,
+      "wame": false
+    },
+    "918709022955@s.whatsapp.net": {
+      "mute": false,
+      "wame": false
+    },
+    "6285714746145@s.whatsapp.net": {
+      "mute": false,
+      "wame": false
+    },
+    "6285238056041@s.whatsapp.net": {
+      "mute": false,
+      "wame": false
+    },
+    "6281915246989@s.whatsapp.net": {
+      "mute": false,
+      "wame": false
+    },
+    "6285806043137@s.whatsapp.net": {
+      "mute": false,
+      "wame": false
+    },
+    "6281346589811@s.whatsapp.net": {
+      "mute": false,
+      "wame": false
+    },
+    "6288299288957@s.whatsapp.net": {
+      "mute": false,
+      "wame": false
+    },
+    "6283173984933@s.whatsapp.net": {
+      "mute": false,
+      "wame": false
+    },
+    "6281227284512@s.whatsapp.net": {
+      "mute": false,
+      "wame": false
+    },
+    "6283846527274@s.whatsapp.net": {
+      "mute": false,
+      "wame": false
+    },
+    "6281239264731@s.whatsapp.net": {
+      "mute": false,
+      "wame": false
+    },
+    "62895325504848@s.whatsapp.net": {
+      "mute": false,
+      "wame": false
+    },
+    "6282134588157@s.whatsapp.net": {
+      "mute": false,
+      "wame": false
+    },
+    "6281246536787@s.whatsapp.net": {
+      "mute": false,
+      "wame": false
+    },
+    "6285217513238@s.whatsapp.net": {
+      "mute": false,
+      "wame": false
+    },
+    "62895343303817-1631969608@g.us": {
+      "mute": false,
+      "wame": false
+    },
+    "6281390367617@s.whatsapp.net": {
+      "mute": false,
+      "wame": false
+    },
+    "6285600287894@s.whatsapp.net": {
+      "mute": false,
+      "wame": false
+    },
+    "6281343451130@s.whatsapp.net": {
+      "mute": false,
+      "wame": false
+    },
+    "6285282609948@s.whatsapp.net": {
+      "mute": false,
+      "wame": false
+    },
+    "6287881230798@s.whatsapp.net": {
+      "mute": false,
+      "wame": false
+    },
+    "6283115579159@s.whatsapp.net": {
+      "mute": false,
+      "wame": false
+    },
+    "120363039356293779@g.us": {
+      "mute": false,
+      "wame": false
+    },
+    "62895330026617@s.whatsapp.net": {
+      "mute": false,
+      "wame": false
+    },
+    "18059004511@s.whatsapp.net": {
+      "mute": false,
+      "wame": false
+    },
+    "6281368971807@s.whatsapp.net": {
+      "mute": false,
+      "wame": false
+    },
+    "6287892711054@s.whatsapp.net": {
+      "mute": false,
+      "wame": false
+    },
+    "6283856994587@s.whatsapp.net": {
+      "mute": false,
+      "wame": false
+    },
+    "6285741857464@s.whatsapp.net": {
+      "mute": false,
+      "wame": false
+    },
+    "687710621@s.whatsapp.net": {
+      "mute": false,
+      "wame": false
+    },
+    "67579870314@s.whatsapp.net": {
+      "mute": false,
+      "wame": false
+    },
+    "120363040592137865@g.us": {
+      "mute": false,
+      "wame": false
+    },
+    "6281254820093@s.whatsapp.net": {
+      "mute": false,
+      "wame": false
+    },
+    "62895324234305@s.whatsapp.net": {
+      "mute": false,
+      "wame": false
+    },
+    "6282322961172@s.whatsapp.net": {
+      "mute": false,
+      "wame": false
+    }
+  }
+}
